@@ -47,7 +47,7 @@ void WelcomeToSPD() {
 
 ## License 📄
 
-This project is under license [MIT License] - read the file [LICENSE.md](LICENSE) for details.
+This project is under license [GNU General Public License v3.0] - read the file [LICENSE.md](LICENSE) for details.
 
 ---
 
@@ -58,7 +58,9 @@ This project is under license [MIT License] - read the file [LICENSE.md](LICENSE
     <th colspan="3"><center>Sistema de Procesamiento de Datos</center></th>
     <tr>
       <td colspan="3">
-        <center><img class="circular" alt="SPD" src="https://avatars.githubusercontent.com/u/7840474?v=4" width="80px" height="80px"/></center>
+        <div align='center' id='Logo'>
+          <img class="circular" alt="SPD" align='center' src="https://avatars.githubusercontent.com/u/7840474?v=4" width="80px" height="80px"/>
+        </div>
       </td>
     </tr>
   </theader>
