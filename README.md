@@ -81,7 +81,7 @@ This project is under license [GNU General Public License v3.0] - read the file 
     </tr>
     <tr>
       <td>
-        <a href=""><img alt="LinkedIn_M" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="125px" height="30px"/>
+        <a href="https://www.linkedin.com/in/martinisusiseff/"><img alt="LinkedIn_M" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="125px" height="30px"/>
       </td>
       <td>
         <a href=""><img alt="LinkedIn_L" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="125px" height="30px"/>
@@ -95,7 +95,7 @@ This project is under license [GNU General Public License v3.0] - read the file 
         <a href="https://github.com/martin919191/"><img alt="GitHub_M" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="125px" height="30px" />
       </td>
       <td>
-        <a href=""><img alt="GitHub_L" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="125px" height="30px" />
+        <a href="https://github.com/LMFT"><img alt="GitHub_L" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="125px" height="30px" />
       </td>
       <td>
         <a href="https://github.com/caidevOficial/"><img alt="GitHub_F" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="125px" height="30px" />
