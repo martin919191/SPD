@@ -23,8 +23,7 @@
 
 ```cpp
 void WelcomeToSPD() {
-  Serial.println("Vamos a Aprender");
-  Serial.println("En SPD!");
+  Serial.println("Bienvenid@s a SPD");
 }
 ```
 
