@@ -45,7 +45,6 @@ void WelcomeToSPD() {
 
 ---
 
-
 ## License 📄
 
 This project is under license [GNU General Public License v3.0] - read the file [LICENSE.md](LICENSE) for details.
