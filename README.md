@@ -66,8 +66,8 @@ This project is under license [GNU General Public License v3.0] - read the file 
   </theader>
   <tbody>
     <th><center>Profesor</center></th>
-    <th><center>Ayudante 1F</center></th>
     <th><center>Ayudante 1G</center></th>
+    <th><center>Ayudante 1F</center></th>
     <tr>
       <td>
         <center>🦸‍♂️ Martin Isusi</center>
