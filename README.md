@@ -17,14 +17,13 @@
 
 ---
 
-# Sistema de Procesamiento de Datos - UTN. 👨‍💻
+# Sistemas de Procesamiento de Datos - UTN. 👨‍💻
 
 ---
 
 ```cpp
 void WelcomeToSPD() {
-  Serial.println("Vamos a Aprender");
-  Serial.println("En SPD!");
+  Serial.println("Bienvenid@s a SPD");
 }
 ```
 
