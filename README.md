@@ -51,11 +51,14 @@ This project is under license [GNU General Public License v3.0] - read the file 
 
 ---
 
-## Where to find us: 🌎
-
 <table class="whereTo">
   <theader>
-    <th colspan="3"><center>Sistema de Procesamiento de Datos</center></th>
+    <tr>
+      <th colspan="3"><center>Where to find us: 🌎</center></th>
+    </tr>
+    <tr>
+      <th colspan="3"><center>Sistema de Procesamiento de Datos</center></th>
+    </tr>
     <tr>
       <td colspan="3">
         <div align='center' id='Logo'>
@@ -64,19 +67,29 @@ This project is under license [GNU General Public License v3.0] - read the file 
       </td>
     </tr>
   </theader>
-  <tbody>
+  <tbody align='center'>
     <th><center>Profesor</center></th>
     <th><center>Ayudante 1G</center></th>
     <th><center>Ayudante 1F</center></th>
-    <tr>
+    <tr align='center'>
       <td>
-        <center>🦸‍♂️ Martin Isusi</center>
+        🦸‍♂️ Martin Isusi
       </td>
       <td>
-        <center>🦹‍♂️ Lucas Ferrini</center>
+        🦹‍♂️ Lucas Ferrini
       </td>
       <td>
-        <center>🦹‍♂️ Facundo Falcone</center>
+        🦹‍♂️ Facundo Falcone
+      </td>
+    </tr>
+    <tr align='center'>
+      <td>
+        📭 [E-mail](mailto:m.isusi@sistemas-utnfra.com.ar)
+      </td>
+      <td>
+      </td>
+      <td>
+        📭 [E-mail](mailto:ffalcone@fra.utn.edu.ar)
       </td>
     </tr>
     <tr>
