@@ -17,14 +17,13 @@
 
 ---
 
-# Sistema de Procesamiento de Datos - UTN. 👨‍💻
+# Sistemas de Procesamiento de Datos - UTN. 👨‍💻
 
 ---
 
 ```cpp
 void WelcomeToSPD() {
-  Serial.println("Vamos a Aprender");
-  Serial.println("En SPD!");
+  Serial.println("Bienvenid@s a SPD");
 }
 ```
 
@@ -97,7 +96,7 @@ This project is under license [GNU General Public License v3.0] - read the file 
         <a href="https://www.linkedin.com/in/martinisusiseff/"><img alt="LinkedIn_M" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="125px" height="30px"/>
       </td>
       <td>
-        <a href=""><img alt="LinkedIn_L" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="125px" height="30px"/>
+        <a href="https://www.linkedin.com/in/lucas-ferrini-6781b9212/"><img alt="LinkedIn_L" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="125px" height="30px"/>
       </td>
       <td>
         <a href="https://www.linkedin.com/in/facundo-falcone/"><img alt="LinkedIn_F" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="125px" height="30px"/>
